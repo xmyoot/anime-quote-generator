@@ -1,4 +1,4 @@
-  ![Firefox_Screenshot_2024-02-29T00-06-37 303Z](https://github.com/xmyoot/anime-quote-generator/assets/15240538/e4455fa7-686d-471b-a291-fd294e4b2107)
+
 
 # Vite + React Quote Generation Application
 
@@ -9,7 +9,7 @@ This project is a Quote Generator application built using React, Tailwind, and V
 - Generates a list of random anime quotes.
 - Allows the user to control the number of quotes displayed using a slider.
 - Responsive design that works on desktop and mobile devices.
-
+  ![Firefox_Screenshot_2024-02-29T00-06-37 303Z](https://github.com/xmyoot/anime-quote-generator/assets/15240538/e4455fa7-686d-471b-a291-fd294e4b2107)
 
 ## Installation
 
